@@ -1,0 +1,6 @@
+{
+  "name": "Đập Chuột Ôn Tập Công Thức Lượng Giác Toán 11",
+  "description": "Trò chơi Đập Chuột ôn tập kiến thức Công thức lượng giác Toán 11 bộ sách Kết nối tri thức với cuộc sống (Chương trình GDPT 2018).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
